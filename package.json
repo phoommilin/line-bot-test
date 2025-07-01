@@ -1,0 +1,26 @@
+{
+  "type": "commonjs",
+  "name": "line-bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vercel dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoommilin/line-bot-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phoommilin/line-bot-test/issues"
+  },
+  "homepage": "https://github.com/phoommilin/line-bot-test#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^10.0.0",
+    "express": "^5.1.0"
+  }
+}
